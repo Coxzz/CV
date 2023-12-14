@@ -1,1 +1,98 @@
-# CV
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <link rel="stylesheet" href="CV.css">
+    <title>Cv Juba</title>
+   
+  
+</head>
+<body>
+    <header>
+        <img src="data:image/png;base64,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" alt="Marvin Ly">
+        <h1>CV Behtani Juba</h1>
+        <h2>Alternant BTS SIO SISR</h2> 
+    </header> 
+
+<aside>
+    <h2>Informations personnelles</h2>
+    <ul>
+      <li><strong>Nom:</strong> Behtani</li>
+      <li><strong>Adresse:</strong> 43 avenue des grottes , Evian les bains </li>
+      <li><strong>Téléphone:</strong> 06 95 63 93 39</li>
+      <li><strong>Email:</strong> Juba.berrouche@gmail.com</li> 
+    </ul>
+  <article>
+    <h2>Compétences techniques</h2>
+    <ul>
+      <li>Dépannage infomatique</li>
+      <li>Maitrise du pack office</li>
+      <li> Analyse de données</li>
+      <li>Création de modèles 3D Sketchup</li>
+      <li>Installation Windows</li>
+      <li> Arduino , Python</li>
+    
+    </ul>
+
+    <h2>Hoobies</h2>
+    <p>Sport : Musculation , Football Americain et Vélo</p>
+
+
+    <h2>Qualité</h2>
+        <li>Esprit d'équipe</li>
+        <li>Autonome</li>
+        <li>Capacités d'adapation </li>
+        <li>Curieux , Patient</li>
+      </p>
+    </article>
+  </aside>  
+  
+ <main>
+
+    <h2>Diplome</h2>
+    <ul>
+        
+       <li>Baccalauréat STI2D option SIN (informatique)</li> 
+       <li>Diplôme nationnal du brevet</li>
+       <li>ASSR 1 et 2</li>
+       <li>La formation Prévention et secours civique de niveau 1</li>
+    </ul>
+
+    <h2>Expérience professionnel</h2>
+    
+        <h2><strong> BTB FIBRE - Stagiaire</strong></h2>
+        
+      <ul>
+        <li>Repérage des lieux pour le passage des cables afin
+        d'assurer un travail rapide et de qualité</li>
+        <li>Raccordement des câbles aux équipements tels que</li>
+        <li>Central Fibre et Box SFR</li>
+        <li>Gestion des travaux de réparation pour les lignes
+        d'alimentation électrique aériennes et souterraines</li>
+      </ul>
+
+        <h2><strong> Intermarcher - Employer</strong></h2>
+       <ul>  
+        <li>Rayon Fruit et Légume</li>
+        <li>Tous rayon compris</li>
+        <li>S'occupe de la réserve (Dépote)</li>
+      </ul>   
+       <h2> <strong>Electricien - Aide électricien</strong></h2>
+      <ul>  
+        <li>Tirage de cable</li>
+        <li>Maîtrise de l'installation des appareils électriques</li>
+        <li>Raccordement et dérivation du flux électrique</li>
+      </ul>  
+        <h2> <strong>Famy TP - Manutention</strong></h2>
+      <ul>  
+        <li>Mesure et mise en marche du laser</li>
+        <li>Deployage d'un barrage</li>
+      
+        <li> <a href="https://www.youtube.com/watch?v=tNv-DdR2gSo" > "Zougataga" </a> </li>
+        
+    </ul>
+  </main>
+  
+</body>
+
+
+</html>
